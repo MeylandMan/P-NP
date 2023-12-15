@@ -1,0 +1,15 @@
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\bin\Debug\net8.0\P=NP.exe
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\bin\Debug\net8.0\P=NP.deps.json
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\bin\Debug\net8.0\P=NP.runtimeconfig.json
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\bin\Debug\net8.0\P=NP.dll
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\bin\Debug\net8.0\P=NP.pdb
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.AssemblyInfoInputs.cache
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.AssemblyInfo.cs
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.csproj.CoreCompileInputs.cache
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.sourcelink.json
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.dll
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\refint\P=NP.dll
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.pdb
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\P=NP.genruntimeconfig.cache
+C:\Users\Meyland\Documents\GitHub\P-NP\P=NP\obj\Debug\net8.0\ref\P=NP.dll
